@@ -12,11 +12,11 @@ Examples (Input -> Output):
 
 # Solution
 ```bash
-  def hoop_count(n):
-    if n >= 10:
-        return "Great, now move on to tricks"
-    else:
-        return "Keep at it until you get it"
+  def double_char(s):
+    result = ''
+    for c in s:
+        result = result + c*2
+    return result
 ```
 
 
