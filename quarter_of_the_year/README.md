@@ -10,8 +10,8 @@ For example: month 2 (February), is part of the first quarter; month 6 (June), i
         return 1
     if 4 <= month <= 6:
         return 2
-    if 6 <= month <= 8:
+    if 6 <= month <= 9:
         return 3
-    if 8 <= month <= 12:
+    if 9 <= month <= 12:
         return 4
 ```
