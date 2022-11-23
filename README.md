@@ -1,5 +1,5 @@
 
 # Code Wars solutions
 
-Here you will se solutions for coding challegens of [Codewars](https://www.codewars.com/)
+Here you will se my solutions for coding challenges of [Codewars](https://www.codewars.com/)
 
